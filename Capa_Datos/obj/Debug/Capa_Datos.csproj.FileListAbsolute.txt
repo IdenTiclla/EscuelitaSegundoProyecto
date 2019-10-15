@@ -3,3 +3,8 @@ C:\Users\LUIS\source\repos\MiEscuelita\Capa_Datos\bin\Debug\Capa_Datos.pdb
 C:\Users\LUIS\source\repos\MiEscuelita\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
 C:\Users\LUIS\source\repos\MiEscuelita\Capa_Datos\obj\Debug\Capa_Datos.dll
 C:\Users\LUIS\source\repos\MiEscuelita\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Datos\obj\Debug\Capa_Datos.pdb

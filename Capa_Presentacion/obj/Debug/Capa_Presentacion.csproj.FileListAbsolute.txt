@@ -11,3 +11,25 @@ C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presenta
 C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
 C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
 C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Logica.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Iesi.Collections.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\NHibernate.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Remotion.Linq.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Logica.pdb
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Iesi.Collections.xml
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\NHibernate.xml
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Remotion.Linq.xml
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.MenuPrincipal.resources
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\ident\Documents\Visual Studio 2019\Projects\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
