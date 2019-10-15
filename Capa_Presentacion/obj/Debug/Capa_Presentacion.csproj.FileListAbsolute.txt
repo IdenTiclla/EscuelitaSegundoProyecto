@@ -1,0 +1,13 @@
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Logica.dll
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\bin\Debug\Capa_Logica.pdb
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.MenuPrincipal.resources
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\LUIS\source\repos\MiEscuelita\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
